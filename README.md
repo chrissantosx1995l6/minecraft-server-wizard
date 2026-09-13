@@ -33,3 +33,5 @@ You can also update configuration values without opening the properties file:
 ```cmd
 python wizard.py config --set motd="My Test Server" --set server-port=25575 --set view-distance=10
 ```
+
+<!-- verified: 2026-09-13 -->
